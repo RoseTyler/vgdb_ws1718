@@ -64,3 +64,35 @@ Deine Lösung
 Deine Lösung
 ```
 
+## Aufgabe 9
+Füge der Tabelle Vertreter eine Spalte bonus hinzu, in die ein bis zu vierstelliger, ganzzahliger Wert eingetragen werden soll.
+
+### Lösung
+```sql
+Deine Lösung
+```
+
+## Aufgabe 10
+Setze den Bonus für alle Mitarbeiter auf 500.
+
+### Lösung
+```sql
+Deine Lösung
+```
+
+## Aufgabe 11
+Ändere den Datentyp für die Spalte vname in der Tabelle vertreter auf VARCHAR2(20).
+
+### Lösung
+```sql
+Deine Lösung
+```
+
+## Aufgabe 12
+An welchen Tagen wurden Verkäufe getätigt?
+
+### Lösung
+```sql
+Deine Lösung
+```
+
