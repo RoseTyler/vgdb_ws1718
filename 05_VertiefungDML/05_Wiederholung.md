@@ -17,7 +17,7 @@ Mache dich mit den Tabellen vertraut bzgl.:
 * Datensätzen in den Tabellen und was diese bedeuten
 
 ## Aufgabe 3
-Zeige alle Vertreter mit `NAME` und `VNR` an, die eine Provision von  weniger als 7% erhalten. 
+Zeige alle Vertreter mit `NAME` und `VNR` an, die eine Provision von  weniger als 7% erhalten.
 
 ### Lösung
 ```sql
@@ -31,3 +31,36 @@ Bei welchen Artikeln (`NAME` und `ARTIKELNUMMER`) liegt der Preis über `100`?
 ```sql
 Deine Lösung
 ```
+
+## Aufgabe 5
+Zeige alle Vertreter an, die vor dem 01.01.1980 geboren sind und deren Name ein i beinhaltet.
+
+### Lösung
+```sql
+Deine Lösung
+```
+
+## Aufgabe 6
+Füge dich als Vertreter in die Tabelle Vertreter ein mit einer Provision von 6% und der Mitarbeiternummer 7777.
+
+### Lösung
+```sql
+Deine Lösung
+```
+
+## Aufgabe 7
+Füge für deinen Mitarbeiter einen Verkauf mit UNR 1014 hinzu. Der neue Datensatz soll abbilden, dass heute 22 Wintermäntel vom Mitarbeiter mit der Mitarbeiternummer 7777 verkauft wurden.
+
+### Lösung
+```sql
+Deine Lösung
+```
+
+## Aufgabe 8
+Ändere den Preis eines Stiefels auf 88,90.
+
+### Lösung
+```sql
+Deine Lösung
+```
+
