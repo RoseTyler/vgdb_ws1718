@@ -39,3 +39,28 @@ Zeige alle Vertreter an, die vor dem 01.01.1980 geboren sind und deren Name ein 
 ```sql
 Deine Lösung
 ```
+
+## Aufgabe 6
+Füge dich als Vertreter in die Tabelle Vertreter ein mit einer Provision von 6% und der Mitarbeiternummer 7777.
+
+### Lösung
+```sql
+Deine Lösung
+```
+
+## Aufgabe 7
+Füge für deinen Mitarbeiter einen Verkauf mit UNR 1014 hinzu. Der neue Datensatz soll abbilden, dass heute 22 Wintermäntel vom Mitarbeiter mit der Mitarbeiternummer 7777 verkauft wurden.
+
+### Lösung
+```sql
+Deine Lösung
+```
+
+## Aufgabe 8
+Ändere den Preis eines Stiefels auf 88,90.
+
+### Lösung
+```sql
+Deine Lösung
+```
+
