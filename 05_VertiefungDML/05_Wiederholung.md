@@ -17,7 +17,7 @@ Mache dich mit den Tabellen vertraut bzgl.:
 * Datensätzen in den Tabellen und was diese bedeuten
 
 ## Aufgabe 3
-Zeige alle Vertreter mit `NAME` und `VNR` an, die eine Provision von  weniger als 7% erhalten. 
+Zeige alle Vertreter mit `NAME` und `VNR` an, die eine Provision von  weniger als 7% erhalten.
 
 ### Lösung
 ```sql
@@ -26,6 +26,14 @@ Deine Lösung
 
 ## Aufgabe 4
 Bei welchen Artikeln (`NAME` und `ARTIKELNUMMER`) liegt der Preis über `100`?
+
+### Lösung
+```sql
+Deine Lösung
+```
+
+## Aufgabe 5
+Zeige alle Vertreter an, die vor dem 01.01.1980 geboren sind und deren Name ein i beinhaltet.
 
 ### Lösung
 ```sql
